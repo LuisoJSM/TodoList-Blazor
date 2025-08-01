@@ -76,3 +76,4 @@ c:\Users\oficina14\Documents\TodoList-Blazor\TodoList-Blazor\obj\Debug\net9.0\re
 c:\Users\oficina14\Documents\TodoList-Blazor\TodoList-Blazor\obj\Debug\net9.0\TodoList-Blazor.pdb
 c:\Users\oficina14\Documents\TodoList-Blazor\TodoList-Blazor\obj\Debug\net9.0\TodoList-Blazor.genruntimeconfig.cache
 c:\Users\oficina14\Documents\TodoList-Blazor\TodoList-Blazor\obj\Debug\net9.0\ref\TodoList-Blazor.dll
+c:\Users\oficina14\Documents\TodoList-Blazor\TodoList-Blazor\obj\Debug\net9.0\TodoList-Blazor.sourcelink.json
